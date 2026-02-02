@@ -1,0 +1,31 @@
+Linux commands used to work with files and folders
+
+
+
+
+
+pwd – this is used  to check the current working directory
+
+
+
+
+ls – used to see list of all files  directory
+
+cd <directory_name> – used for change the directory
+
+mkdir <folder_name> –   it is used  to create new folder
+
+rmdir <folder_name> – used to delete empty folder
+
+touch <file_name> – used to creat empty file
+
+
+
+
+cp <source> <destination> – used to copy files or folder from one location to another one 
+
+mv <old_name> <new_name> – used to rename or move file and folders
+
+rm <file_name> – used to delete file
+
+cat <file_name> – used to show the content of file
