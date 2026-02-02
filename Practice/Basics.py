@@ -5,8 +5,6 @@
 
  # DATA TYPES IN PYTHON   #
  
- 
- 
 
 # Numeric  int 
 x = 10
@@ -36,6 +34,10 @@ b = False
 # immutable sequence of characters
 
 name = "Anand"
+
+
+# Advance data type in python 
+
 
 # list :- Ordered  mutable, allows duplicate
 
