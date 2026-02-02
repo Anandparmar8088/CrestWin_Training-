@@ -1,0 +1,26 @@
+some basics command for git and git hub 
+
+
+
+git command initlize reposatory 
+
+
+git init  - crete git 
+git status -  check the status 
+git add . -  it will add all the files from folder to repo
+git commit -m "first commit" - used to commit it and message 
+
+
+
+
+
+from local pc to git hub repo this commands are use to push our 
+local code from my local machine to my git hub website 
+
+
+git branch  name of branhc -       create a brach like main
+
+git remote add origin <repo_url> - connect your bracnh with git hub repository
+
+git push -u origin main-   helps in push my code in the main branch or any other branch we want 
+
