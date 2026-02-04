@@ -33,7 +33,8 @@ multipuser handling server handling and development and deployment  '''
          
          here the root folder is App/
                                      -button 
-                                            -Feature1, Feature2
+                                            -Feature1, 
+                                            -Feature2
                                             
                                 nested folders in linux by mkdir
                                 

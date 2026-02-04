@@ -1,7 +1,7 @@
 '''Git Branchs in git : 
                        are nothing but the independant  copy of the git repo is known as git branch and 
                        they are use for the so that defferent teams can work together on saperate module 
-                       and then thy can merge the changes in the main branches 
+                       and then thy can merge the changes in the main branches later 
 
 '''
 
