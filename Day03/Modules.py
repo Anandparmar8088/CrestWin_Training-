@@ -1,44 +1,40 @@
-# Modules in python : - module in python is a file that contain python code (defiantion and Statement) 
-                    #   module helps programs to maintain in saperate files so 
-                    #   it make program easy to maintain and reuse 
-                    
-# creating a module in py:
-    
-def add(a,b):  # a simple python module 
-    return(a+b)
+# Modules in Python:
+# A module in Python is a file that contains Python code
+# (definitions and statements).
+# Modules help programs to be maintained in separate files,
+# making programs easier to maintain and reuse.
 
 
-# we can import a module to a program : using 
+# Creating a module in Python:
 
-import Control_flow 
-# this will import th e controll from from the same folder 
-print(Control_flow.add(10,20))
+def add(a, b):  # a simple Python module
+    return a + b
 
 
-# Type of module in python 
+# We can import a module into a program using:
 
-# 1 built-in module : os, random, math \
-    
-import os 
+import Control_flow
+# This will import the control flow module from the same folder
+print(Control_flow.add(10, 20))
+
+
+# Types of modules in Python
+
+# 1. Built-in modules: os, random, math
+
+import os
 
 if os.path.exists("hello.txt"):
     os.remove("hello.txt")
 else:
     print("file does not exist")
-    
-
-# 2 user defined : specified by the user it self for his own purpose 
-import Control_flow 
-print(Control_flow.add(10,20))
-
-#3  External :-third party module
-# 
-# : installed by pip install :- numpy pandas
 
 
+# 2. User-defined modules: specified by the user for their own purpose
+
+import Control_flow
+print(Control_flow.add(10, 20))
 
 
-
-
-
-
+# 3. External modules (third-party modules)
+# Installed using pip, for example: numpy, pandas
