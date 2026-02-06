@@ -5,7 +5,7 @@
 
 # Types of functions in Python
 
-# 1. Built-in functions: int(), type()
+# 1. Built-in functions: int, type() 
 
 # 2. User-defined functions: add()
 
@@ -13,6 +13,7 @@
 #    used for single-time functionality
 
 # 4. Recursive functions: execute until a specific condition is met
+
 
 
 # Types of arguments in Python:
@@ -26,7 +27,7 @@
 # Positional arguments
 def add(Num1, Num2):
     return Num1, Num2
-
+add(1,2)
 
 # Keyword arguments
 def Info(name, age):

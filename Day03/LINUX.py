@@ -1,7 +1,9 @@
 # linux .sh file and its working : in linux .sh file contain the executable file of linux shell commands 
 
+#!/bin/bash  tell which shell to use 
+
 '''so for creating a shell script cmd :- touch notes.sh 
-checking the file permission          :- ls -l notes.txt
+checking the file permission          :- ls -l notes.txt  W ,r x 
 giving it the executable permission   :- chmod +x notes.sh
 
 to run the file (execute it):- ./notes.sh cmd is used  '''

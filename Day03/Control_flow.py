@@ -29,6 +29,15 @@ elif i == 25:
     print("hey")
 else:
     print("good bye")
+    
+match i:
+    case 1:
+        break
+    
+    
+    
+    
+    case _
 
 
 # Jump statements: if we want to go to a specific part of the code

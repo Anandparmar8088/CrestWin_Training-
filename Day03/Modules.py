@@ -38,3 +38,6 @@ print(Control_flow.add(10, 20))
 
 # 3. External modules (third-party modules)
 # Installed using pip, for example: numpy, pandas
+
+pip install django 
+pip install djangorestframework  
